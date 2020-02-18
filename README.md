@@ -1,4 +1,4 @@
-https://find-it-quick.herokuapp.com/
+## Hosted Project Link: https://find-it-quick.herokuapp.com/
 
 ## Stack
 
